@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    background-color: green;
+    color: yellow;
+}
+
+.textcenter{
+    text-align: center;
+}
+
+.imgcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
